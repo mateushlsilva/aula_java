@@ -1,1 +1,2 @@
-# aula_java
+# Java
+Repositório referente aos exercícios de java!
